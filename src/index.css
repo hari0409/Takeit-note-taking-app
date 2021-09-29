@@ -22,9 +22,6 @@ code {
   flex-direction: column;
   justify-content:space-between;
 }
-.note span{
-  margin-top: -7rem;
-}
 .note-footer{
   display: flex;
   align-items: center;
