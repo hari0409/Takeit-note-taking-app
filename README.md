@@ -18,4 +18,4 @@ if lost use the search option to find the note you want.
 Dont worry about it being flushed out.  
 Your notes are stored in your local machine.  
 And also there is dark mode for the application.
-✌️✌️ 
+✌️✌️  
